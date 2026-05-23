@@ -1,0 +1,121 @@
+aid: astranis
+url: https://raw.githubusercontent.com/api-evangelist/astranis/refs/heads/main/apis.yml
+name: Astranis
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+description: Astranis designs, manufactures, and operates small, dedicated geostationary
+  communications satellites known as MicroGEO. Each spacecraft uses radiation-hardened digital
+  payload technology to deliver dedicated broadband capacity to specific countries, telecom
+  operators, enterprise users, and the U.S. government. Astranis is a satellite operator and
+  manufacturer rather than an API provider; it does not publish a public developer API.
+tags:
+  - Aerospace
+  - Satellite Communications
+  - Geostationary Orbit
+  - MicroGEO
+  - Broadband
+  - Defense
+  - SATCOM
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.astranis.com/
+  - type: Newsroom
+    url: https://www.astranis.com/newsroom
+  - type: Blog
+    url: https://www.astranis.com/blog
+  - type: Careers
+    url: https://www.astranis.com/careers
+  - type: Contact
+    url: https://www.astranis.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/astranis
+  - type: Twitter
+    url: https://twitter.com/Astranis
+  - type: Instagram
+    url: https://www.instagram.com/astranis_space/
+  - type: YouTube
+    url: https://www.youtube.com/@astranisspace
+  - type: Features
+    data:
+      - name: MicroGEO Satellite
+        description: Small, radiation-hardened geostationary communications satellite weighing a few
+          hundred kilograms, delivering dedicated broadband capacity.
+      - name: Software-Defined Radio Payload
+        description: Digital signal processor payload reprogrammable on orbit to adapt frequencies,
+          beam shapes, and waveforms.
+      - name: Dedicated Capacity
+        description: Each satellite serves a single country, telecom operator, or enterprise customer
+          rather than sharing capacity across regions.
+      - name: Rapid Deployment
+        description: Production cadence designed for faster delivery than traditional multi-ton GEO
+          spacecraft.
+      - name: Jam-Resistant Communications
+        description: Protected tactical communications capability under U.S. Space Force contracts.
+  - type: UseCases
+    data:
+      - name: National Broadband
+        description: Dedicated broadband connectivity for nations and regional telecom operators such
+          as Chunghwa Telecom (Taiwan), Thaicom, Anuvu, and Orbits.
+      - name: Government and Defense SATCOM
+        description: Protected, jam-resistant satellite communications for the U.S. Space Force and
+          allied governments.
+      - name: In-Flight and Maritime Connectivity
+        description: Mobility connectivity through partners such as Anuvu.
+      - name: Enterprise Connectivity
+        description: Dedicated capacity for enterprise and remote-site connectivity.
+  - type: Programs
+    data:
+      - name: PTS-G
+        description: U.S. Space Force Protected Tactical SATCOM Global program; Astranis serves as a
+          prime contractor in the first phase.
+      - name: Resilient GPS
+        description: U.S. government program to deliver resilient positioning, navigation, and timing
+          capability.
+      - name: Andromeda
+        description: U.S. government program of record on which Astranis is a prime contractor.
+  - type: Customers
+    data:
+      - name: U.S. Space Force
+        description: Prime contractor for the Protected Tactical SATCOM Global (PTS-G) program.
+      - name: Anuvu
+        description: In-flight and maritime connectivity partner.
+      - name: Chunghwa Telecom
+        description: Taiwanese telecommunications operator deploying dedicated MicroGEO capacity.
+      - name: Thaicom
+        description: Thai satellite operator deploying MicroGEO capacity.
+      - name: Orbits
+        description: Connectivity partner deploying MicroGEO capacity.
+  - type: Funding
+    data:
+      - name: Series E Funding
+        description: $300M Series E announced in May 2026, co-led by Snowpoint Ventures and Franklin
+          Templeton, with participation from Andreessen Horowitz, BlackRock-affiliated funds, Baillie
+          Gifford, Fidelity, BAM Elevate, and others. Combined with a Trinity Capital delayed-draw
+          credit facility of up to $155M, the round totals $450M. Total raised exceeds $1.2B at an
+          approximate $2.8B valuation.
+      - name: Five satellites on orbit
+        description: Astranis has five satellites currently on orbit with more than ten additional
+          satellites under contract.
+  - type: Authentication
+    data:
+      - name: No Public API
+        description: Astranis does not publish a public developer API or developer portal. Customer
+          engagement is through direct sales of dedicated satellite capacity and government contracts.
+  - type: Compliance
+    data:
+      - name: ITAR
+        description: International Traffic in Arms Regulations compliance for U.S. defense exports.
+      - name: U.S. Government Contracting
+        description: Cleared facilities and personnel supporting U.S. Space Force programs.
+  - type: Facilities
+    data:
+      - name: Pier 70 Headquarters
+        description: Design, manufacturing, integration, test, and mission operations at Historic
+          Pier 70 in San Francisco, California.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
