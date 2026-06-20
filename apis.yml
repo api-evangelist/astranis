@@ -2,7 +2,7 @@ aid: astranis
 url: https://raw.githubusercontent.com/api-evangelist/astranis/refs/heads/main/apis.yml
 name: Astranis
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 description: Astranis designs, manufactures, and operates small, dedicated geostationary
   communications satellites known as MicroGEO. Each spacecraft uses radiation-hardened digital
   payload technology to deliver dedicated broadband capacity to specific countries, telecom
