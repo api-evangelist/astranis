@@ -3,16 +3,17 @@
   "feeds": [
     {
       "source": "https://www.astranis.com/blog",
-      "error": "HTTPError"
+      "saved": 0,
+      "error": "HTTP 404"
     },
     {
-      "source": "https://www.astranis.com/newsroom",
-      "feed_url": "https://www.astranis.com/newsroom",
-      "title": "",
+      "source": "https://www.astranis.com/news",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
+  "fetched": "2026-06-27T12:27:33Z",
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "agent_pulled": "2026-06-27"
 }
